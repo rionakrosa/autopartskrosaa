@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --krosa-red: #c8232c;
+  --krosa-blue: #0f4ea8;
+}
+
+html,body,#__next{height:100%;}
+body{
+  @apply bg-white text-gray-900 antialiased;
+  font-family: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+/* Header styling to match screenshot */
+.site-header { background: var(--krosa-red); }
+.site-header .container { padding-left: 1.25rem; padding-right: 1.25rem }
+.site-nav a { color: rgba(255,255,255,0.95); }
+
+/* Hero styling */
+.hero-deco {
+  background: linear-gradient(180deg, #0f4ea8 0%, #0b3f88 100%);
+}
+.hero-title { letter-spacing: -0.02em; }
+.hero-sub { color: rgba(255,255,255,0.92); }
+
+/* Overlap card */
+.products-card { margin-top: -3.25rem; border-radius: 1rem; box-shadow: 0 18px 40px rgba(2,6,23,0.12); }
+
+/* Hero image treatment */
+.hero-image { border-radius: 12px; box-shadow: 0 22px 48px rgba(2,6,23,0.18); }
+
+/* Mobile tweaks to match screenshot */
+@media (max-width: 768px){
+  .hero-title { font-size: 2rem; line-height: 1.05 }
+  .products-card { margin-top: -1.5rem }
+}
+
+/* Small helper for logo spacing */
+.logo-wrap { display:flex; align-items:center; gap:0.75rem }
+
+/* Product image placeholder fit */
+.product-img { object-fit: cover; width:100%; height:100%; border-radius: 8px }
+
+html, body {
+  height: 100%;
+  background: linear-gradient(135deg, #0f172a 0%, #312e81 50%, #4c1d95 100%);
+  color: white;
+}
