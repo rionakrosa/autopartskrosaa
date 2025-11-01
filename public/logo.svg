@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="60" viewBox="0 0 260 60" fill="none">
+  <rect width="260" height="60" rx="6" fill="#c8232c" />
+  <g transform="translate(14,10)">
+    <path d="M10 22 C 20 10, 50 10, 60 22" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="78" y="24" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="18" fill="#ffffff">AUTO PARTS KROSA</text>
+  </g>
+</svg>
