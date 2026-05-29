@@ -8,8 +8,9 @@
     "prisma:migrate": "prisma migrate dev --name init",
     "migrate-json": "node ./scripts/migrate-json-to-sqlite.js",
     "db:setup": "npm run prisma:generate && npm run prisma:migrate && npm run migrate-json",
-    "build": "next build",
-    "start": "next start"
+    "build": "prisma generate && prisma db push && next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.0.0",
