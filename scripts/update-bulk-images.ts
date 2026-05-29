@@ -19,13 +19,13 @@ async function updateBulkProductImages() {
     // Update products 2 and 3
     await prisma.product.update({
       where: { id: 2 },
-      data: { image: images[0] } // part1.png
+      data: { images: images[0] } // part1.png
     })
     console.log(`✓ Product 2 updated → ${images[0]}`)
 
     await prisma.product.update({
       where: { id: 3 },
-      data: { image: images[1] } // part2.png
+      data: { images: images[1] } // part2.png
     })
     console.log(`✓ Product 3 updated → ${images[1]}`)
 
@@ -40,7 +40,7 @@ async function updateBulkProductImages() {
         if (product) {
           await prisma.product.update({
             where: { id },
-            data: { image: images[imageIndex] }
+            data: { images: images[imageIndex] }
           })
           updated++
           

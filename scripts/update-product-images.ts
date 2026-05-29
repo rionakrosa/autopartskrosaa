@@ -24,7 +24,7 @@ async function updateProductImages() {
       if (product) {
         await prisma.product.update({
           where: { id: update.id },
-          data: { image: update.image }
+          data: { images: update.image }
         })
         console.log(`✓ Product ${update.id}: ${product.name} → ${update.image}`)
       } else {

@@ -52,7 +52,7 @@ export async function PATCH(request: Request, { params }: { params: { id: string
     
     if (body.name !== undefined) updateData.name = body.name;
     if (body.price !== undefined) updateData.price = parseFloat(body.price);
-    if (body.image !== undefined) updateData.image = body.image;
+    if (body.images !== undefined) updateData.images = body.images;
     if (body.description !== undefined) updateData.description = body.description;
     if (body.details !== undefined) updateData.details = JSON.stringify(body.details);
     if (body.bestSeller !== undefined) updateData.bestSeller = Boolean(body.bestSeller);
@@ -95,7 +95,7 @@ export async function PUT(request: Request, { params }: { params: { id: string }
       data: {
         name: body.name,
         price: parseFloat(body.price),
-        image: body.image,
+        images: body.images,
         description: body.description,
         details: JSON.stringify(body.details || []),
         bestSeller: Boolean(body.bestSeller),

@@ -34,7 +34,7 @@ export async function POST(request: Request) {
         update: {
           name: product.name,
           price: product.price,
-          image: product.image,
+          images: product.images ?? product.image,
           description: product.description,
           details: JSON.stringify(product.details || []),
           bestSeller: !!product.bestSeller
@@ -43,7 +43,7 @@ export async function POST(request: Request) {
           id: product.id ? Number(product.id) : undefined,
           name: product.name || '',
           price: product.price || '',
-          image: product.image || '/placeholder.png',
+          images: (product.images ?? product.image) || '/placeholder.png',
           description: product.description || '',
           details: JSON.stringify(product.details || []),
           bestSeller: !!product.bestSeller

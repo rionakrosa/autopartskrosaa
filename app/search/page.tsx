@@ -1,23 +1,25 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
-import { useRef } from "react";
-import { useSearchParams } from "next/navigation";
+import { useState, useEffect, useRef } from "react";
 import dynamic from "next/dynamic";
 const Header = dynamic(() => import("../../Components/Header"), { ssr: false });
 
 export default function SearchPage() {
-  const searchParams = useSearchParams();
-  const initialQuery = searchParams?.get("q") || "";
-  const [query, setQuery] = useState(initialQuery);
+  const [query, setQuery] = useState("");
   const [results, setResults] = useState<any[]>([]);
   const [products, setProducts] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
 
-  // Fetch products from API on mount
   const rafRef = useRef<number | null>(null);
   const pendingMouse = useRef<{x:number;y:number}|null>(null);
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setQuery(params.get("q") || "");
+  }, []);
+
+  // Fetch products from API on mount
   useEffect(() => {
     fetch('/api/products?inStock=true')
       .then(res => res.json())
@@ -30,14 +32,6 @@ export default function SearchPage() {
         setLoading(false);
       });
   }, []);
-
-  // Update query if URL changes (for navigation from header dropdown)
-  useEffect(() => {
-    if (searchParams) {
-      const q = searchParams.get("q") || "";
-      setQuery(q);
-    }
-  }, [searchParams]);
 
   function handleSearch(searchText: string) {
     setQuery(searchText);

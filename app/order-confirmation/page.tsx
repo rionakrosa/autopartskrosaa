@@ -1,14 +1,19 @@
 "use client";
 
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
+import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 const Header = dynamic(() => import("../../Components/Header"), { ssr: false });
 
 export default function OrderConfirmationPage() {
-  const searchParams = useSearchParams();
-  const orderNumber = searchParams?.get("orderNumber") || "";
-  const orderId = searchParams?.get("orderId") || "";
+  const [orderNumber, setOrderNumber] = useState("");
+  const [orderId, setOrderId] = useState("");
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setOrderNumber(params.get("orderNumber") || "");
+    setOrderId(params.get("orderId") || "");
+  }, []);
 
   const styles: { [k: string]: React.CSSProperties } = {
     main: { minHeight: "100vh", background: "#fff" },

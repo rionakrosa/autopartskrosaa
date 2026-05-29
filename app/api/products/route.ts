@@ -90,7 +90,7 @@ export async function POST(request: Request) {
             id: p.id,
             name: p.name,
             price: p.price,
-            image: p.image,
+            images: p.images ?? p.image,
             description: p.description,
             details: JSON.stringify(p.details || []),
             bestSeller: Boolean(p.bestSeller),
@@ -105,17 +105,17 @@ export async function POST(request: Request) {
     }
 
     // Single product creation
-    const { name, price, image, description, details, bestSeller, stock, category } = body;
+    const { name, price, images, image, description, details, bestSeller, stock, category } = body;
 
-    if (!name || !price || !image) {
-      return NextResponse.json({ error: 'Missing required fields: name, price, image' }, { status: 400 });
+    if (!name || !price || !(images || image)) {
+      return NextResponse.json({ error: 'Missing required fields: name, price, images' }, { status: 400 });
     }
 
     const product = await prisma.product.create({
       data: {
         name,
         price: parseFloat(price),
-        image,
+        images: images ?? image,
         description: description || '',
         details: JSON.stringify(details || []),
         bestSeller: Boolean(bestSeller),
