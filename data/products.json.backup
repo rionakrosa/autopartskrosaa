@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Disku frenues",
+    "price": "€50",
+    "image": "/disk.jpg",
+    "description": "Marka e vetures Citroen, pjese e re, kualitet i larte",
+    "details": [
+      "Bosch",
+      "Citroen",
+      "Kualitet"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bateria e makines 12V",
+    "price": "€120",
+    "image": "/products/car-battery.jpg",
+    "description": "Baterie 12V pa mirembajtje me jete te gjate dhe amper te forte te ftohte.",
+    "details": [
+      "Pa mirembajtje",
+      "CCA e larte",
+      "Kualitet"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Filtri i vajit",
+    "price": "€18",
+    "image": "/products/oil-filter.jpg",
+    "description": "Filtri i vajit i qendrueshem qe siguron vaj te paster motori dhe jete te gjate te motorit.",
+    "details": [
+      "Fluks i larte",
+      "Media e qendrueshme",
+      "Pershtatet me shumicen e veturave"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kandela (4)",
+    "price": "€35",
+    "image": "/kandela.png",
+    "description": "Set i katersh te kandeles per djegie efikase dhe ekonomine e karburantit.",
+    "details": [
+      "Tipi platinum",
+      "Zjarre i permiresuar",
+      "Set prej 4"
+    ]
+  }
+]

@@ -1,0 +1,8070 @@
+[
+  {
+    "id": 1,
+    "name": "Disku frenues",
+    "price": 50.07,
+    "image": "/disk.jpg",
+    "description": "Marka e vetures Citroen, pjese e re, kualitet i larte",
+    "bestSeller": true,
+    "details": [
+      "Bosch",
+      "Citroen",
+      "Kualitet"
+    ],
+    "stock": 10,
+    "images": [
+      "/disk.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bateria e makines 12V",
+    "price": 120.05,
+    "image": "/products/car-battery.jpg",
+    "description": "Baterie 12V pa mirembajtje me jete te gjate dhe amper te forte te ftohte.",
+    "bestSeller": true,
+    "details": [
+      "Pa mirembajtje",
+      "CCA e larte",
+      "Kualitet"
+    ],
+    "stock": 10,
+    "images": [
+      "/products/car-battery.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Filtri i vajit",
+    "price": 18.29,
+    "image": "/products/part6.png",
+    "description": "Filtri i vajit i qendrueshem qe siguron vaj te paster motori dhe jete te gjate te motorit.",
+    "bestSeller": true,
+    "details": [
+      "Fluks i larte",
+      "Media e qendrueshme",
+      "Pershtatet me shumicen e veturave"
+    ],
+    "stock": 10,
+    "images": [
+      "/products/part6.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kandela (4)",
+    "price": 35.08,
+    "image": "/kandela.png",
+    "description": "Set i katersh te kandeles per djegie efikase dhe ekonomine e karburantit.",
+    "bestSeller": true,
+    "details": [
+      "Tipi platinum",
+      "Zjarre i permiresuar",
+      "Set prej 4"
+    ],
+    "stock": 10,
+    "images": [
+      "/kandela.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 15.84,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 5.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 16.73,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 6.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "price": 17.65,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 7.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "price": 18.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 8.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "price": 30.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 9.",
+    "details": [
+      "Kuaitet i lart",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "price": 20.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 10.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "price": 21.33,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 11.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "price": 22.6,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 12.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "price": 23.4,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 13.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "price": 24.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 14.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "price": 25.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 15.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "price": 26.02,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 16.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "price": 27.45,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 17.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "price": 28.11,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 18.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "price": 29.29,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 19.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "price": 30.29,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 20.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "price": 31.7,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 21.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "price": 32.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 22.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "price": 33.07,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 23.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "price": 34.02,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 24.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "price": 35.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 25.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "price": 36.41,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 26.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "price": 37.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 27.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "price": 38.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 28.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "price": 39.38,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 29.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "price": 40.4,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 30.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "price": 41.87,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 31.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "price": 42.44,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 32.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "price": 43.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 33.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "price": 44.2,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 34.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "price": 45.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 35.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "price": 46.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 36.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "price": 47.23,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 37.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "price": 48.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 38.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "price": 49.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 39.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "price": 50.48,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 40.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "price": 51.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 41.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "price": 52.08,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 42.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "price": 53.15,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 43.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "price": 54.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 44.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "price": 55.69,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 45.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "price": 56.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 46.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "price": 57.22,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 47.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "price": 58.4,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 48.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "price": 59.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 49.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "price": 60.84,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 50.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "price": 61.53,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 51.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "price": 62.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 52.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "price": 63.28,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 53.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "price": 64.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 54.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "price": 65.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 55.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "price": 66.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 56.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "price": 67.15,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 57.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "price": 68.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 58.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "price": 69.48,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 59.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "price": 70.92,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 60.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "price": 71.25,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 61.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "price": 72.2,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 62.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "price": 73.46,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 63.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "price": 74.37,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 64.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "price": 75.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 65.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "price": 76.94,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 66.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "price": 77.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 67.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "price": 78.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 68.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "price": 79.49,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 69.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "price": 80.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 70.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "price": 81.23,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 71.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "price": 82.49,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 72.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "price": 83.31,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 73.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "price": 84.93,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 74.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "price": 85.86,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 75.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "price": 86.11,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 76.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "price": 87.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 77.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "price": 88.56,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 78.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "price": 89.71,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 79.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "price": 90.6,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 80.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "price": 91.03,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 81.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "price": 92.27,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 82.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "price": 93.75,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 83.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "price": 94.71,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 84.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "price": 95.24,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 85.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "price": 96.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 86.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "price": 97.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 87.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "price": 98.21,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 88.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "price": 99.21,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 89.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "price": 100.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 90.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "price": 101.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 91.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "price": 102.54,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 92.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "price": 103.46,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 93.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "price": 104.12,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 94.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "price": 105.36,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 95.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "price": 106.99,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 96.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "price": 107.59,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 97.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "price": 108.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 98.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "price": 109.03,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 99.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "price": 110.23,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 100.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Product 101",
+    "price": 111.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 101.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Product 102",
+    "price": 112.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 102.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Product 103",
+    "price": 113.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 103.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Product 104",
+    "price": 114.35,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 104.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Product 105",
+    "price": 115.44,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 105.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Product 106",
+    "price": 116.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 106.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Product 107",
+    "price": 117.55,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 107.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Product 108",
+    "price": 118.63,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 108.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Product 109",
+    "price": 119.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 109.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Product 110",
+    "price": 120.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 110.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Product 111",
+    "price": 121.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 111.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Product 112",
+    "price": 122.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 112.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Product 113",
+    "price": 123.38,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 113.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Product 114",
+    "price": 124.51,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 114.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Product 115",
+    "price": 125.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 115.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Product 116",
+    "price": 126.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 116.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Product 117",
+    "price": 127.62,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 117.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Product 118",
+    "price": 128.8,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 118.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Product 119",
+    "price": 129.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 119.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Product 120",
+    "price": 130.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 120.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Product 121",
+    "price": 131.45,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 121.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Product 122",
+    "price": 132.27,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 122.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Product 123",
+    "price": 133.02,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 123.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Product 124",
+    "price": 134.42,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 124.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Product 125",
+    "price": 135.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 125.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Product 126",
+    "price": 136.44,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 126.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Product 127",
+    "price": 137.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 127.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Product 128",
+    "price": 138.21,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 128.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Product 129",
+    "price": 139.28,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 129.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Product 130",
+    "price": 140.39,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 130.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Product 131",
+    "price": 141.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 131.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Product 132",
+    "price": 142.43,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 132.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Product 133",
+    "price": 143.45,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 133.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Product 134",
+    "price": 144.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 134.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Product 135",
+    "price": 145.33,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 135.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Product 136",
+    "price": 146.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 136.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Product 137",
+    "price": 147.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 137.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Product 138",
+    "price": 148.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 138.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Product 139",
+    "price": 149.31,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 139.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Product 140",
+    "price": 150.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 140.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Product 141",
+    "price": 151.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 141.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Product 142",
+    "price": 152.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 142.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Product 143",
+    "price": 153.41,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 143.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Product 144",
+    "price": 154.87,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 144.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Product 145",
+    "price": 155.64,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 145.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Product 146",
+    "price": 156.14,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 146.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Product 147",
+    "price": 157.38,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 147.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Product 148",
+    "price": 158.35,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 148.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Product 149",
+    "price": 159,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 149.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Product 150",
+    "price": 160.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 150.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Product 151",
+    "price": 161.94,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 151.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Product 152",
+    "price": 162.88,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 152.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Product 153",
+    "price": 163.31,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 153.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Product 154",
+    "price": 164.32,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 154.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Product 155",
+    "price": 165.22,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 155.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Product 156",
+    "price": 166.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 156.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Product 157",
+    "price": 167.1,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 157.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Product 158",
+    "price": 168.29,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 158.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Product 159",
+    "price": 169.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 159.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Product 160",
+    "price": 170.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 160.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Product 161",
+    "price": 171.38,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 161.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Product 162",
+    "price": 172.14,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 162.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Product 163",
+    "price": 173.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 163.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Product 164",
+    "price": 174.6,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 164.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Product 165",
+    "price": 175.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 165.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Product 166",
+    "price": 176.24,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 166.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Product 167",
+    "price": 177.65,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 167.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Product 168",
+    "price": 178.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 168.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Product 169",
+    "price": 179.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 169.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Product 170",
+    "price": 180.55,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 170.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Product 171",
+    "price": 181.63,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 171.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Product 172",
+    "price": 182.73,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 172.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Product 173",
+    "price": 183.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 173.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Product 174",
+    "price": 184.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 174.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Product 175",
+    "price": 185.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 175.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Product 176",
+    "price": 186.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 176.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Product 177",
+    "price": 187.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 177.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Product 178",
+    "price": 188.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 178.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Product 179",
+    "price": 189.55,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 179.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Product 180",
+    "price": 190.98,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 180.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Product 181",
+    "price": 191.59,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 181.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Product 182",
+    "price": 192.73,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 182.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Product 183",
+    "price": 193.63,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 183.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Product 184",
+    "price": 194.2,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 184.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Product 185",
+    "price": 195.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 185.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Product 186",
+    "price": 196.22,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 186.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Product 187",
+    "price": 197.89,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 187.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Product 188",
+    "price": 198.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 188.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Product 189",
+    "price": 199.14,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 189.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Product 190",
+    "price": 200.34,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 190.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Product 191",
+    "price": 201.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 191.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Product 192",
+    "price": 202.65,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 192.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Product 193",
+    "price": 203.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 193.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Product 194",
+    "price": 204.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 194.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Product 195",
+    "price": 205.13,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 195.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Product 196",
+    "price": 206.33,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 196.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Product 197",
+    "price": 207.34,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 197.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Product 198",
+    "price": 208.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 198.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Product 199",
+    "price": 209.69,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 199.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Product 200",
+    "price": 10.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 200.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Product 201",
+    "price": 11.18,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 201.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Product 202",
+    "price": 12.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 202.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Product 203",
+    "price": 13.74,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 203.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Product 204",
+    "price": 14.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 204.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Product 205",
+    "price": 15.03,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 205.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Product 206",
+    "price": 16.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 206.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Product 207",
+    "price": 17.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 207.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Product 208",
+    "price": 18.94,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 208.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Product 209",
+    "price": 19.32,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 209.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Product 210",
+    "price": 20.08,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 210.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Product 211",
+    "price": 21.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 211.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Product 212",
+    "price": 22.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 212.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Product 213",
+    "price": 23.83,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 213.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Product 214",
+    "price": 24.79,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 214.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Product 215",
+    "price": 25.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 215.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Product 216",
+    "price": 26.38,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 216.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Product 217",
+    "price": 27.12,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 217.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Product 218",
+    "price": 28.69,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 218.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Product 219",
+    "price": 29.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 219.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Product 220",
+    "price": 30.87,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 220.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Product 221",
+    "price": 31.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 221.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Product 222",
+    "price": 32.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 222.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Product 223",
+    "price": 33.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 223.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Product 224",
+    "price": 34.6,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 224.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Product 225",
+    "price": 35.3,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 225.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Product 226",
+    "price": 36.2,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 226.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Product 227",
+    "price": 37.31,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 227.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Product 228",
+    "price": 38.11,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 228.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Product 229",
+    "price": 39.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 229.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Product 230",
+    "price": 40.13,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 230.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Product 231",
+    "price": 41.87,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 231.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Product 232",
+    "price": 42.34,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 232.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Product 233",
+    "price": 43.36,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 233.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Product 234",
+    "price": 44.1,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 234.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Product 235",
+    "price": 45.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 235.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Product 236",
+    "price": 46.43,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 236.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Product 237",
+    "price": 47.28,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 237.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Product 238",
+    "price": 48.98,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 238.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Product 239",
+    "price": 49.7,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 239.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Product 240",
+    "price": 50.64,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 240.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Product 241",
+    "price": 51.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 241.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Product 242",
+    "price": 52.75,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 242.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Product 243",
+    "price": 53.65,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 243.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Product 244",
+    "price": 54.36,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 244.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Product 245",
+    "price": 55.53,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 245.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Product 246",
+    "price": 56.26,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 246.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Product 247",
+    "price": 57.73,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 247.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Product 248",
+    "price": 58.28,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 248.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Product 249",
+    "price": 59.46,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 249.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Product 250",
+    "price": 60.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 250.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Product 251",
+    "price": 61.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 251.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Product 252",
+    "price": 62.38,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 252.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Product 253",
+    "price": 63.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 253.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Product 254",
+    "price": 64.62,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 254.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Product 255",
+    "price": 65.59,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 255.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Product 256",
+    "price": 66.07,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 256.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Product 257",
+    "price": 67.87,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 257.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Product 258",
+    "price": 68.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 258.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Product 259",
+    "price": 69.98,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 259.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Product 260",
+    "price": 70.16,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 260.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Product 261",
+    "price": 71.45,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 261.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Product 262",
+    "price": 72.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 262.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Product 263",
+    "price": 73.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 263.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Product 264",
+    "price": 74.24,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 264.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Product 265",
+    "price": 75.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 265.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Product 266",
+    "price": 76.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 266.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Product 267",
+    "price": 77.35,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 267.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Product 268",
+    "price": 78.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 268.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Product 269",
+    "price": 79.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 269.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Product 270",
+    "price": 80.39,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 270.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Product 271",
+    "price": 81.24,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 271.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Product 272",
+    "price": 82.83,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 272.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Product 273",
+    "price": 83.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 273.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Product 274",
+    "price": 84.13,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 274.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Product 275",
+    "price": 85.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 275.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Product 276",
+    "price": 86.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 276.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Product 277",
+    "price": 87.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 277.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Product 278",
+    "price": 88.92,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 278.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Product 279",
+    "price": 89.75,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 279.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Product 280",
+    "price": 90.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 280.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Product 281",
+    "price": 91.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 281.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Product 282",
+    "price": 92.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 282.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Product 283",
+    "price": 93.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 283.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Product 284",
+    "price": 94.12,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 284.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Product 285",
+    "price": 95.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 285.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Product 286",
+    "price": 96.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 286.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Product 287",
+    "price": 97.8,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 287.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Product 288",
+    "price": 98.08,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 288.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Product 289",
+    "price": 99.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 289.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Product 290",
+    "price": 100.94,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 290.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Product 291",
+    "price": 101.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 291.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Product 292",
+    "price": 102.71,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 292.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Product 293",
+    "price": 103.89,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 293.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Product 294",
+    "price": 104.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 294.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Product 295",
+    "price": 105.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 295.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Product 296",
+    "price": 106.35,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 296.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Product 297",
+    "price": 107.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 297.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Product 298",
+    "price": 108.64,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 298.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Product 299",
+    "price": 109.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 299.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Product 300",
+    "price": 110.6,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 300.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Product 301",
+    "price": 111.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 301.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Product 302",
+    "price": 112.84,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 302.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Product 303",
+    "price": 113.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 303.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Product 304",
+    "price": 114.96,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 304.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Product 305",
+    "price": 115.61,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 305.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Product 306",
+    "price": 116.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 306.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Product 307",
+    "price": 117.93,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 307.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Product 308",
+    "price": 118.43,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 308.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Product 309",
+    "price": 119.69,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 309.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Product 310",
+    "price": 120.2,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 310.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Product 311",
+    "price": 121.43,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 311.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Product 312",
+    "price": 122.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 312.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Product 313",
+    "price": 123.41,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 313.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Product 314",
+    "price": 124.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 314.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Product 315",
+    "price": 125.86,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 315.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Product 316",
+    "price": 126.55,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 316.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Product 317",
+    "price": 127.29,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 317.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Product 318",
+    "price": 128.47,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 318.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Product 319",
+    "price": 129.6,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 319.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Product 320",
+    "price": 130.7,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 320.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Product 321",
+    "price": 131.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 321.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Product 322",
+    "price": 132.44,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 322.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Product 323",
+    "price": 133.15,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 323.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Product 324",
+    "price": 134.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 324.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Product 325",
+    "price": 135.42,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 325.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Product 326",
+    "price": 136.65,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 326.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Product 327",
+    "price": 137.88,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 327.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Product 328",
+    "price": 138.25,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 328.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Product 329",
+    "price": 139.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 329.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Product 330",
+    "price": 140.84,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 330.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Product 331",
+    "price": 141.93,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 331.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Product 332",
+    "price": 142.14,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 332.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Product 333",
+    "price": 143.03,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 333.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Product 334",
+    "price": 144.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 334.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Product 335",
+    "price": 145.91,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 335.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Product 336",
+    "price": 146.88,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 336.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Product 337",
+    "price": 147.86,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 337.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Product 338",
+    "price": 148.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 338.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Product 339",
+    "price": 149.36,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 339.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Product 340",
+    "price": 150.28,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 340.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Product 341",
+    "price": 151.44,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 341.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Product 342",
+    "price": 152.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 342.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Product 343",
+    "price": 153.53,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 343.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Product 344",
+    "price": 154.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 344.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Product 345",
+    "price": 155.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 345.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Product 346",
+    "price": 156.58,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 346.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Product 347",
+    "price": 157.3,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 347.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Product 348",
+    "price": 158.25,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 348.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Product 349",
+    "price": 159.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 349.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Product 350",
+    "price": 160.56,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 350.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Product 351",
+    "price": 161.4,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 351.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Product 352",
+    "price": 162.55,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 352.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Product 353",
+    "price": 163.56,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 353.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Product 354",
+    "price": 164.25,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 354.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Product 355",
+    "price": 165.99,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 355.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Product 356",
+    "price": 166.52,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 356.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Product 357",
+    "price": 167.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 357.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Product 358",
+    "price": 168.22,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 358.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Product 359",
+    "price": 169.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 359.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Product 360",
+    "price": 170.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 360.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Product 361",
+    "price": 171.47,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 361.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Product 362",
+    "price": 172.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 362.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Product 363",
+    "price": 173.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 363.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Product 364",
+    "price": 174.8,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 364.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Product 365",
+    "price": 175.81,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 365.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Product 366",
+    "price": 176.41,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 366.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Product 367",
+    "price": 177.32,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 367.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Product 368",
+    "price": 178.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 368.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Product 369",
+    "price": 179.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 369.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Product 370",
+    "price": 180.53,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 370.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Product 371",
+    "price": 181.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 371.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Product 372",
+    "price": 182.36,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 372.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Product 373",
+    "price": 183.51,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 373.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Product 374",
+    "price": 184.04,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 374.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Product 375",
+    "price": 185.26,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 375.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Product 376",
+    "price": 186.31,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 376.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Product 377",
+    "price": 187.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 377.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Product 378",
+    "price": 188.67,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 378.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Product 379",
+    "price": 189.45,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 379.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Product 380",
+    "price": 190.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 380.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Product 381",
+    "price": 191.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 381.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Product 382",
+    "price": 192.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 382.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Product 383",
+    "price": 193.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 383.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Product 384",
+    "price": 194.54,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 384.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Product 385",
+    "price": 195.63,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 385.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Product 386",
+    "price": 196.57,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 386.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Product 387",
+    "price": 197.15,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 387.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Product 388",
+    "price": 198.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 388.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Product 389",
+    "price": 199.21,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 389.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Product 390",
+    "price": 200.81,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 390.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Product 391",
+    "price": 201.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 391.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Product 392",
+    "price": 202.2,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 392.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Product 393",
+    "price": 203.21,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 393.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Product 394",
+    "price": 204.57,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 394.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Product 395",
+    "price": 205.4,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 395.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Product 396",
+    "price": 206.1,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 396.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Product 397",
+    "price": 207.7,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 397.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Product 398",
+    "price": 208.42,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 398.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Product 399",
+    "price": 209.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 399.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Product 400",
+    "price": 10.41,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 400.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Product 401",
+    "price": 11.9,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 401.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Product 402",
+    "price": 12.16,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 402.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Product 403",
+    "price": 13.11,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 403.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Product 404",
+    "price": 14.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 404.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Product 405",
+    "price": 15.79,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 405.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Product 406",
+    "price": 16.59,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 406.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Product 407",
+    "price": 17.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 407.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Product 408",
+    "price": 18.49,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 408.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Product 409",
+    "price": 19.35,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 409.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Product 410",
+    "price": 20.72,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 410.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Product 411",
+    "price": 21.33,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 411.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Product 412",
+    "price": 22.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 412.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Product 413",
+    "price": 23.56,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 413.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Product 414",
+    "price": 24.94,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 414.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Product 415",
+    "price": 25.44,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 415.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Product 416",
+    "price": 26.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 416.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Product 417",
+    "price": 27.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 417.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Product 418",
+    "price": 28.69,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 418.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Product 419",
+    "price": 29.46,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 419.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Product 420",
+    "price": 30.03,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 420.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Product 421",
+    "price": 31.28,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 421.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Product 422",
+    "price": 32.01,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 422.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Product 423",
+    "price": 33.14,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 423.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Product 424",
+    "price": 34.86,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 424.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Product 425",
+    "price": 35.3,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 425.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Product 426",
+    "price": 36.71,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 426.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Product 427",
+    "price": 37.79,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 427.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Product 428",
+    "price": 38.92,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 428.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Product 429",
+    "price": 39.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 429.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Product 430",
+    "price": 40.29,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 430.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Product 431",
+    "price": 41.74,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 431.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Product 432",
+    "price": 42.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 432.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Product 433",
+    "price": 43.73,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 433.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Product 434",
+    "price": 44.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 434.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Product 435",
+    "price": 45.08,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 435.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Product 436",
+    "price": 46.22,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 436.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Product 437",
+    "price": 47.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 437.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Product 438",
+    "price": 48.33,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 438.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Product 439",
+    "price": 49.5,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 439.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Product 440",
+    "price": 50.91,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 440.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Product 441",
+    "price": 51.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 441.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Product 442",
+    "price": 52.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 442.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Product 443",
+    "price": 53.62,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 443.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Product 444",
+    "price": 54.05,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 444.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Product 445",
+    "price": 55.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 445.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Product 446",
+    "price": 56.41,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 446.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Product 447",
+    "price": 57.23,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 447.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Product 448",
+    "price": 58.3,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 448.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Product 449",
+    "price": 59.59,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 449.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Product 450",
+    "price": 60.35,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 450.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Product 451",
+    "price": 61.46,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 451.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Product 452",
+    "price": 62.24,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 452.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Product 453",
+    "price": 63.15,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 453.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Product 454",
+    "price": 64.85,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 454.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Product 455",
+    "price": 65.55,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 455.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Product 456",
+    "price": 66.1,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 456.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Product 457",
+    "price": 67.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 457.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Product 458",
+    "price": 68.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 458.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Product 459",
+    "price": 69.66,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 459.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Product 460",
+    "price": 70.29,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 460.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Product 461",
+    "price": 71.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 461.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Product 462",
+    "price": 72.31,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 462.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Product 463",
+    "price": 73.73,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 463.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Product 464",
+    "price": 74.11,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 464.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Product 465",
+    "price": 75.62,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 465.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Product 466",
+    "price": 76.86,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 466.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Product 467",
+    "price": 77.76,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 467.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Product 468",
+    "price": 78.88,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 468.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Product 469",
+    "price": 79.81,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 469.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Product 470",
+    "price": 80.91,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 470.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Product 471",
+    "price": 81.11,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 471.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Product 472",
+    "price": 82.88,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 472.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Product 473",
+    "price": 83.84,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 473.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Product 474",
+    "price": 84.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 474.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Product 475",
+    "price": 85.25,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 475.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Product 476",
+    "price": 86.32,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 476.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Product 477",
+    "price": 87.77,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 477.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Product 478",
+    "price": 88.68,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 478.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Product 479",
+    "price": 89.56,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 479.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Product 480",
+    "price": 90.07,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 480.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Product 481",
+    "price": 91.8,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 481.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Product 482",
+    "price": 92.87,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 482.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Product 483",
+    "price": 93.78,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 483.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Product 484",
+    "price": 94.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 484.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Product 485",
+    "price": 95.86,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 485.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Product 486",
+    "price": 96.89,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 486.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Product 487",
+    "price": 97.34,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 487.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Product 488",
+    "price": 98.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 488.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Product 489",
+    "price": 99.71,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 489.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Product 490",
+    "price": 100.98,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 490.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Product 491",
+    "price": 101.71,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 491.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Product 492",
+    "price": 102.95,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 492.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Product 493",
+    "price": 103.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 493.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Product 494",
+    "price": 104.97,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 494.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Product 495",
+    "price": 105.69,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 495.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Product 496",
+    "price": 106.19,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 496.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Product 497",
+    "price": 107.4,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 497.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Product 498",
+    "price": 108.49,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 498.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Product 499",
+    "price": 109.59,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 499.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Product 500",
+    "price": 110.17,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 500.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Product 501",
+    "price": 111.06,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 501.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Product 502",
+    "price": 112.15,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 502.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Product 503",
+    "price": 113.09,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 503.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Product 504",
+    "price": 114.39,
+    "image": "/placeholder.png",
+    "description": "Auto part sample description for product 504.",
+    "details": [
+      "High quality",
+      "Compatible with many models",
+      "1 year warranty"
+    ],
+    "stock": 10,
+    "images": [
+      "/placeholder.png"
+    ]
+  }
+]

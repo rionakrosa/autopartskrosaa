@@ -5,4 +5,4 @@ module.exports = {
     require('autoprefixer'),
   ],
 }
-<body className="bg-transparent">
+

@@ -10,18 +10,23 @@ async function main(){
   const { PrismaClient } = require('@prisma/client')
   const prisma = new PrismaClient()
 
-  console.log('Clearing existing Product table...')
+  console.log('Clearing related tables (OrderItem, CartItem) and Product table...')
+  await prisma.orderItem.deleteMany()
+  await prisma.cartItem.deleteMany()
   await prisma.product.deleteMany()
 
   for (const p of products) {
     await prisma.product.create({ data: {
-      id: p.id,
       name: p.name || '',
-      price: p.price || '',
-      image: p.image || '/placeholder.png',
+      price: p.price || 0,
+      images: JSON.stringify(Array.isArray(p.images) ? p.images : (p.image ? [p.image] : [])),
       description: p.description || '',
       details: JSON.stringify(p.details || []),
-      bestSeller: !!p.bestSeller
+      bestSeller: !!p.bestSeller,
+      stock: typeof p.stock === 'number' ? p.stock : 0,
+      category: p.category || '',
+      sku: p.sku || undefined,
+      isActive: true
     }})
   }
 

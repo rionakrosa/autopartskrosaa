@@ -8,13 +8,133 @@ datasource db {
 }
 
 model Product {
-  id          Int     @id @default(autoincrement())
+  id          Int         @id @default(autoincrement())
   name        String
-  price       String
-  image       String
+  price       Float
+  images      String?     @default("[]")
   description String
-  // `Json` isn't supported by the SQLite connector in some environments.
-  // Store the details array as a JSON-encoded string instead and parse/stringify in the API layer.
-  details     String?
-  bestSeller  Boolean @default(false)
+  details     String
+  bestSeller  Boolean     @default(false)
+  stock       Int         @default(0)
+  category    String      @default("")
+  sku         String?     @unique
+  isActive    Boolean     @default(true)
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @default(now())
+  cartItems   CartItem[]
+  orderItems  OrderItem[]
+}
+
+model Car {
+  id          Int      @id @default(autoincrement())
+  make        String
+  model       String
+  year        Int
+  mileage     Int
+  price       Float
+  images      String?  @default("[]")
+  description String?
+  stock       Int      @default(1)
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Message {
+  id        Int      @id @default(autoincrement())
+  name      String
+  email     String
+  subject   String?
+  content   String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Admin {
+  id           Int      @id @default(autoincrement())
+  email        String   @unique
+  passwordHash String
+  name         String?
+  createdAt    DateTime @default(now())
+}
+
+model Customer {
+  id           Int      @id @default(autoincrement())
+  email        String   @unique
+  name         String?
+  phone        String?
+  passwordHash String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  carts        Cart[]
+  orders       Order[]
+}
+
+model Order {
+  id              Int         @id @default(autoincrement())
+  orderNumber     String      @unique
+  customerId      Int
+  status          String      @default("pending")
+  total           Float
+  shippingAddress String
+  billingAddress  String?
+  notes           String?
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+  customer        Customer    @relation(fields: [customerId], references: [id])
+  items           OrderItem[]
+  payments        Payment[]
+}
+
+model OrderItem {
+  id          Int     @id @default(autoincrement())
+  orderId     Int
+  productId   Int
+  quantity    Int
+  priceAtTime Float
+  product     Product @relation(fields: [productId], references: [id])
+  order       Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+
+  @@index([orderId])
+  @@index([productId])
+}
+
+model Cart {
+  id         Int        @id @default(autoincrement())
+  customerId Int?
+  sessionId  String?    @unique
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
+  customer   Customer?  @relation(fields: [customerId], references: [id])
+  items      CartItem[]
+
+  @@index([customerId])
+  @@index([sessionId])
+}
+
+model CartItem {
+  id        Int     @id @default(autoincrement())
+  cartId    Int
+  productId Int
+  quantity  Int     @default(1)
+  product   Product @relation(fields: [productId], references: [id])
+  cart      Cart    @relation(fields: [cartId], references: [id], onDelete: Cascade)
+
+  @@unique([cartId, productId])
+  @@index([cartId])
+  @@index([productId])
+}
+
+model Payment {
+  id            Int      @id @default(autoincrement())
+  orderId       Int
+  amount        Float
+  method        String
+  status        String   @default("pending")
+  transactionId String?  @unique
+  metadata      String?
+  createdAt     DateTime @default(now())
+  order         Order    @relation(fields: [orderId], references: [id])
+
+  @@index([orderId])
 }
